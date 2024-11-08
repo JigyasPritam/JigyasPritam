@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif)
+![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9rbzBlbTFwd2FwYWFmemk4emhoMnR0c3B3b3c5eGliY2FmNW95aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)
 <h1 align="center">Hi 👋, I'm Kumar Jigyas Pritam</h1>
 <h3 align="center">I am a passionate CS enthusiast</h3>
 
