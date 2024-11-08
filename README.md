@@ -7,13 +7,13 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **Web-Stack, MERN, Machine-Learning**
+ 🌱 I’m currently learning **Web-Stack, MERN, Machine-Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JigyasPritam](https://github.com/JigyasPritam)
+ 👨‍💻 All of my projects are available at [https://github.com/JigyasPritam](https://github.com/JigyasPritam)
 
-- 📫 How to reach me **krjigyaspritam@gmail.com**
+ 📫 How to reach me **krjigyaspritam@gmail.com**
 
-- ⚡ Fun fact **I am a promethean. "Trying to be better everyday"**
+ ⚡ Fun fact **I am a promethean. "Trying to be better everyday"**
 
 </div>
 
