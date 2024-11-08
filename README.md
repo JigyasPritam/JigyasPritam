@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG9rbzBlbTFwd2FwYWFmemk4emhoMnR0c3B3b3c5eGliY2FmNW95aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="MasterHead"/>
 </p>
-
+<p align="center">
 <h1 align="center">Hi 👋, I'm Kumar Jigyas Pritam</h1>
 <h3 align="center">I am a passionate CS enthusiast</h3>
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **krjigyaspritam@gmail.com**
 
 - ⚡ Fun fact **I am a promethean. "Trying to be better everyday"**
-
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/kumar-jigyas-pritam-963b24282" target="blank">
