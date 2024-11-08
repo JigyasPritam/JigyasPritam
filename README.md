@@ -1,3 +1,4 @@
+![MasterHead](https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif)
 <h1 align="center">Hi 👋, I'm Kumar Jigyas Pritam</h1>
 <h3 align="center">I am a passionate CS enthusiast</h3>
 
