@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Jigyas Pritam</h1>
 <h3 align="center">I am a passionate CS enthusiast</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, MERN, Machine-Learning**
+- 🌱 I’m currently learning **Web-Stack, MERN, Machine-Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JigyasPritam](https://github.com/JigyasPritam)
 
