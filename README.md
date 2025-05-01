@@ -7,7 +7,7 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **Web-Stack, MERN, Machine-Learning**
+ 🌱 I’m currently learning **MERN, Machine-Learning**
 
  👨‍💻 All of my projects are available at [https://github.com/JigyasPritam](https://github.com/JigyasPritam)
 
