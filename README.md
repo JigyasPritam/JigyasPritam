@@ -13,7 +13,7 @@
 
  📫 How to reach me **krjigyaspritam@gmail.com**
 
- ⚡ Fun fact **I am a promethean. "Trying to be better everyday"**
+ ⚡ **I am a promethean. "Trying to be better everyday"**
 
 </div>
 
